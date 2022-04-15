@@ -71,7 +71,7 @@ section.normal > p {
 }
 
 section.imagem {
-    background: lightgray center center no-repeat fixed;
+    background: lightgray right bottom no-repeat fixed;
     background-size: cover;
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.4);
@@ -86,7 +86,6 @@ section.imagem > p {
 
 section#img01 {
     background-image: url('../imagens/background001.jpg');
-    background-position: right center;
 }
 
 section#img02 {
